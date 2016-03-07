@@ -1,0 +1,9 @@
+README of lab1
+
+compilation: g++ -o lab1 lab1.cpp
+
+Execution: ./lab1
+
+
+
+
